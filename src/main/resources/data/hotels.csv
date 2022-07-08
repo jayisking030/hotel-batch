@@ -1,0 +1,193 @@
+﻿id,hotelName,description,cityCode
+1,Ayla Hotel,Ayla Hotel,AUH
+2,Oryx Hotel,Oryx Hotel,AUH
+3,Nehal Hotel,Nehal Hotel,AUH
+4,Al Diar Mina,Al Diar Mina,AUH
+5,Aloft Al Ain,Aloft Al Ain,AUH
+6,Gravity Hotel,Gravity Hotel,AUH
+7,Aloft Abu Dhabi,Aloft Abu Dhabi,AUH
+8,Royal Rose Hotel,Royal Rose Hotel,AUH
+9,Bab Al Qasr Hotel,Bab Al Qasr Hotel,AUH
+10,Rosewood Abu Dhabi,Rosewood Abu Dhabi,AUH
+11,Dhafra Beach Hotel,Dhafra Beach Hotel,AUH
+12,Al Diar Dana Hotel,Al Diar Dana Hotel,AUH
+13,Al Raha Beach Hotel,Al Raha Beach Hotel,AUH
+14,Nurai Island Resort,Nurai Island Resort,AUH
+15,ibis Abu Dhabi Gate,ibis Abu Dhabi Gate,AUH
+16,Danat Al Ain Resort,Danat Al Ain Resort,AUH
+17,Fairmont Bab Al Bahr,Fairmont Bab Al Bahr,AUH
+18,Doubletree By Hilton,Doubletree By Hilton,AUH
+19,Jannah Burj Al Sarab,Jannah Burj Al Sarab,AUH
+20,"Telal Resort, Al Ain","Telal Resort, Al Ain",AUH
+21,Emirates Plaza Hotel,Emirates Plaza Hotel,AUH
+22,Le Meridien Abu Dhabi,Le Meridien Abu Dhabi,AUH
+23,Dusit Thani Abu Dhabi,Dusit Thani Abu Dhabi,AUH
+24,Al Diar Capital Hotel,Al Diar Capital Hotel,AUH
+25,The Abu Dhabi Edition,The Abu Dhabi Edition,AUH
+26,Bab Al Qasr Residence,Bab Al Qasr Residence,AUH
+27,Southern Sun Abu Dhabi,Southern Sun Abu Dhabi,AUH
+28,Novotel Abu Dhabi Gate,Novotel Abu Dhabi Gate,AUH
+29,The St. Regis Abu Dhabi,The St. Regis Abu Dhabi,AUH
+30,Cristal Hotel Abu Dhabi,Cristal Hotel Abu Dhabi,AUH
+31,Novel Hotel City Center,Novel Hotel City Center,AUH
+32,W Abu Dhabi - Yas Island,W Abu Dhabi - Yas Island,AUH
+33,Corniche Hotel Abu Dhabi,Corniche Hotel Abu Dhabi,AUH
+34,Ayla Bawadi Hotel & Mall,Ayla Bawadi Hotel & Mall,AUH
+35,Danat Jebel Dhanna Resort,Danat Jebel Dhanna Resort,AUH
+36,Grand Millennium Al Wahda,Grand Millennium Al Wahda,AUH
+37,Kingsgate Hotel Abu Dhabi,Kingsgate Hotel Abu Dhabi,AUH
+38,"Emirates Palace, Abu Dhabi","Emirates Palace, Abu Dhabi",AUH
+39,Sofitel Abu Dhabi Corniche,Sofitel Abu Dhabi Corniche,AUH
+40,Al Manzel Hotel Apartments,Al Manzel Hotel Apartments,AUH
+41,Oaks Liwa Executive Suites,Oaks Liwa Executive Suites,AUH
+42,Hilton Abu Dhabi Yas Island,Hilton Abu Dhabi Yas Island,AUH
+43,Shreaton Al Khalidiya Hotel,Shreaton Al Khalidiya Hotel,AUH
+44,Novotel Abu Dhabi Al Bustan,Novotel Abu Dhabi Al Bustan,AUH
+45,Grand Hyatt Abu Dhabi Hotel,Grand Hyatt Abu Dhabi Hotel,AUH
+46,Le Royal Meridien Abu Dhabi,Le Royal Meridien Abu Dhabi,AUH
+47,City Seasons Al Hamra Hotel,City Seasons Al Hamra Hotel,AUH
+48,"Traders Hotel, Qaryat Al Beri","Traders Hotel, Qaryat Al Beri",AUH
+49,Rixos Premium Saadiyat Island,Rixos Premium Saadiyat Island,AUH
+50,Conrad Abu Dhabi Etihad Towers,Conrad Abu Dhabi Etihad Towers,AUH
+51,Al Seef Resort & Spa by Andalus,Al Seef Resort & Spa by Andalus,AUH
+52,Millennium Central Mafraq Hotel,Millennium Central Mafraq Hotel,AUH
+53,Golden Tulip Downtown Abu Dhabi,Golden Tulip Downtown Abu Dhabi,AUH
+54,Royal M Hotel & Resort Abu Dhabi,Royal M Hotel & Resort Abu Dhabi,AUH
+55,Premier Inn Abu Dhabi Int Airport,Premier Inn Abu Dhabi Int Airport,AUH
+56,Sheraton Abu Dhabi Hotel & Resort,Sheraton Abu Dhabi Hotel & Resort,AUH
+57,Saadiyat Rotana Resort and Villas,Saadiyat Rotana Resort and Villas,AUH
+58,Abu Dhabi Airport Hotel Terminal 1,Abu Dhabi Airport Hotel Terminal 1,AUH
+59,Jumeirah at Saadiyat Island Resort,Jumeirah at Saadiyat Island Resort,AUH
+60,"Marriott Hotel Downtown, Abu Dhabi","Marriott Hotel Downtown, Abu Dhabi",AUH
+61,Armed Forces Officers Club & Hotel,Armed Forces Officers Club & Hotel,AUH
+62,Khalidiya Palace Rayhaan by Rotana,Khalidiya Palace Rayhaan by Rotana,AUH
+63,Abu Dhabi Airport Hotel T3 Arrival,Abu Dhabi Airport Hotel T3 Arrival,AUH
+64,Park Hyatt Abu Dhabi Hotel & Villas,Park Hyatt Abu Dhabi Hotel & Villas,AUH
+65,"Radisson Blu Hotel & Resort, Al Ain","Radisson Blu Hotel & Resort, Al Ain",AUH
+66,"Marriott Hotel Al Forsan, Abu Dhabi","Marriott Hotel Al Forsan, Abu Dhabi",AUH
+67,"Holiday Inn Abu Dhabi, an IHG Hotel","Holiday Inn Abu Dhabi, an IHG Hotel",AUH
+68,"Crowne Plaza Abu Dhabi, an IHG Hotel","Crowne Plaza Abu Dhabi, an IHG Hotel",AUH
+69,Anantara Qasr al Sarab Desert Resort,Anantara Qasr al Sarab Desert Resort,AUH
+70,Ramada by Wyndham Abu Dhabi Corniche,Ramada by Wyndham Abu Dhabi Corniche,AUH
+71,Ramada by Wyndham Abu Dhabi Downtown,Ramada by Wyndham Abu Dhabi Downtown,AUH
+72,Abu Dhabi Airport Hotel T3 Departure,Abu Dhabi Airport Hotel T3 Departure,AUH
+73,Anantara Desert Islands Resort & Spa,Anantara Desert Islands Resort & Spa,AUH
+74,"Shangri-La, Qaryat Al Beri, Abu Dhabi","Shangri-La, Qaryat Al Beri, Abu Dhabi",AUH
+75,TRYP by Wyndham Abu Dhabi City Centre,TRYP by Wyndham Abu Dhabi City Centre,AUH
+76,Staybridge Suites Abu Dhabi Yas Island,Staybridge Suites Abu Dhabi Yas Island,AUH
+77,The Westin Abu Dhabi Golf Resort & Spa,The Westin Abu Dhabi Golf Resort & Spa,AUH
+78,"The Ritz-Carlton Abu Dhabi, Grand Canal","The Ritz-Carlton Abu Dhabi, Grand Canal",AUH
+79,Mercure Grand Jebel Hafeet Al Ain Hotel,Mercure Grand Jebel Hafeet Al Ain Hotel,AUH
+80,"Radisson Blu Hotel, Abu Dhabi Yas Island","Radisson Blu Hotel, Abu Dhabi Yas Island",AUH
+81,Courtyard by Marriott World Trade Center,Courtyard by Marriott World Trade Center,AUH
+82,"InterContinental Abu Dhabi, an IHG Hotel","InterContinental Abu Dhabi, an IHG Hotel",AUH
+83,Majlis Grand Mercure Residence Abu Dhabi,Majlis Grand Mercure Residence Abu Dhabi,AUH
+84,Park Inn by Radisson Abu Dhabi Yas Island,Park Inn by Radisson Abu Dhabi Yas Island,AUH
+85,Anantara Eastern Mangroves Abu Dhabi Hotel,Anantara Eastern Mangroves Abu Dhabi Hotel,AUH
+86,Shangri-La Hotel Apartments Qaryat Al Beri,Shangri-La Hotel Apartments Qaryat Al Beri,AUH
+87,"The WB Abu Dhabi, Curio Collection by Hilton","The WB Abu Dhabi, Curio Collection by Hilton",AUH
+88,"Holiday Inn Abu Dhabi Downtown, an IHG Hotel","Holiday Inn Abu Dhabi Downtown, an IHG Hotel",AUH
+89,"Crowne Plaza Abu Dhabi Yas Island, an IHG Hotel","Crowne Plaza Abu Dhabi Yas Island, an IHG Hotel",AUH
+90,"Radisson Blu Hotel & Resort, Abu Dhabi Corniche","Radisson Blu Hotel & Resort, Abu Dhabi Corniche",AUH
+91,"The St. Regis Saadiyat Island Resort, Abu Dhabi","The St. Regis Saadiyat Island Resort, Abu Dhabi",AUH
+92,Four Seasons Hotel Abu Dhabi at Al Maryah Island,Four Seasons Hotel Abu Dhabi at Al Maryah Island,AUH
+93,Hawthorn Suites by Wyndham Abu Dhabi City Centre,Hawthorn Suites by Wyndham Abu Dhabi City Centre,AUH
+94,Andaz Capital Gate Abu Dhabi – a concept by Hyatt,Andaz Capital Gate Abu Dhabi – a concept by Hyatt,AUH
+95,Anantara Sir Bani Yas Island Al Yamm Villa Resort,Anantara Sir Bani Yas Island Al Yamm Villa Resort,AUH
+96,"Al Wathba, a Luxury Collection Desert Resort & Spa","Al Wathba, a Luxury Collection Desert Resort & Spa",AUH
+97,Taj Dubai,Taj Dubai,DXB
+98,The Oberoi,The Oberoi,DXB
+99,Atana Hotel,Atana Hotel,DXB
+100,Aravi Hotel,Aravi Hotel,DXB
+101,Gevora Hotel,Gevora Hotel,DXB
+102,Revier Dubai,Revier Dubai,DXB
+103,Rove City Walk,Rove City Walk,DXB
+104,Fairmont Dubai,Fairmont Dubai,DXB
+105,Palace Downtown,Palace Downtown,DXB
+106,Shangri-La Dubai,Shangri-La Dubai,DXB
+107,Address Sky View,Address Sky View,DXB
+108,Jumeirah Al Qasr,Jumeirah Al Qasr,DXB
+109,Address Downtown,Address Downtown,DXB
+110,Rove City Centre,Rove City Centre,DXB
+111,The Meydan Hotel,The Meydan Hotel,DXB
+112,Fairmont The Palm,Fairmont The Palm,DXB
+113,Dusit Thani Dubai,Dusit Thani Dubai,DXB
+114,Rove Trade Centre,Rove Trade Centre,DXB
+115,Rove Dubai Marina,Rove Dubai Marina,DXB
+116,Rove La Mer Beach,Rove La Mer Beach,DXB
+117,Grand Hyatt Dubai,Grand Hyatt Dubai,DXB
+118,Address Boulevard,Address Boulevard,DXB
+119,City Avenue Hotel,City Avenue Hotel,DXB
+120,ME Dubai by Meliá,ME Dubai by Meliá,DXB
+121,Aloft Dubai Creek,Aloft Dubai Creek,DXB
+122,"Atlantis, The Palm","Atlantis, The Palm",DXB
+123,W Dubai - The Palm,W Dubai - The Palm,DXB
+124,Jumeirah Al Naseem,Jumeirah Al Naseem,DXB
+125,Armani Hotel Dubai,Armani Hotel Dubai,DXB
+126,Address Dubai Mall,Address Dubai Mall,DXB
+127,Asiana Hotel Dubai,Asiana Hotel Dubai,DXB
+128,Aloft Dubai Airport,Aloft Dubai Airport,DXB
+129,Rove Downtown Dubai,Rove Downtown Dubai,DXB
+130,JA Ocean View Hotel,JA Ocean View Hotel,DXB
+131,Caesars Palace Dubai,Caesars Palace Dubai,DXB
+132,Jumeirah Beach Hotel,Jumeirah Beach Hotel,DXB
+133,Swissotel Al Ghurair,Swissotel Al Ghurair,DXB
+134,Address Beach Resort,Address Beach Resort,DXB
+135,Wyndham Dubai Marina,Wyndham Dubai Marina,DXB
+136,Address Dubai Marina,Address Dubai Marina,DXB
+137,Jumeirah Zabeel Saray,Jumeirah Zabeel Saray,DXB
+138,Burj Al Arab Jumeirah,Burj Al Arab Jumeirah,DXB
+139,TRYP by Wyndham Dubai,TRYP by Wyndham Dubai,DXB
+140,Hilton Dubai Jumeirah,Hilton Dubai Jumeirah,DXB
+141,Palazzo Versace Dubai,Palazzo Versace Dubai,DXB
+142,The Tower Plaza Hotel,The Tower Plaza Hotel,DXB
+143,Hilton Dubai The Walk,Hilton Dubai The Walk,DXB
+144,Sofitel Dubai Downtown,Sofitel Dubai Downtown,DXB
+145,Millennium Place Marina,Millennium Place Marina,DXB
+146,Rixos Premium Dubai JBR,Rixos Premium Dubai JBR,DXB
+147,Signature 1 Hotel Tecom,Signature 1 Hotel Tecom,DXB
+148,FIVE Palm Jumeirah Dubai,FIVE Palm Jumeirah Dubai,DXB
+149,Jumeirah Creekside Hotel,Jumeirah Creekside Hotel,DXB
+150,Jumeirah Emirates Towers,Jumeirah Emirates Towers,DXB
+151,Grand Cosmopolitan Hotel,Grand Cosmopolitan Hotel,DXB
+152,Riu Dubai - All Inclusive,Riu Dubai - All Inclusive,DXB
+153,Swissôtel Al Murooj Dubai,Swissôtel Al Murooj Dubai,DXB
+154,Rose Park Hotel Al Barsha,Rose Park Hotel Al Barsha,DXB
+155,FIVE Jumeirah Village Dubai,FIVE Jumeirah Village Dubai,DXB
+156,Majestic City Retreat Hotel,Majestic City Retreat Hotel,DXB
+157,Millennium Central Downtown,Millennium Central Downtown,DXB
+158,Oaks Ibn Battuta Gate Dubai,Oaks Ibn Battuta Gate Dubai,DXB
+159,Sofitel Dubai Jumeirah Beach,Sofitel Dubai Jumeirah Beach,DXB
+160,SLS Dubai Hotel & Residences,SLS Dubai Hotel & Residences,DXB
+161,Grand Millennium Business Bay,Grand Millennium Business Bay,DXB
+162,"The St. Regis Downtown, Dubai","The St. Regis Downtown, Dubai",DXB
+163,Millennium Airport Hotel Dubai,Millennium Airport Hotel Dubai,DXB
+164,Nikki Beach Resort & Spa Dubai,Nikki Beach Resort & Spa Dubai,DXB
+165,Movenpick Hotel Jumeirah Beach,Movenpick Hotel Jumeirah Beach,DXB
+166,JW Marriott Marquis Hotel Dubai,JW Marriott Marquis Hotel Dubai,DXB
+167,ibis Styles Dubai Airport Hotel,ibis Styles Dubai Airport Hotel,DXB
+168,Mövenpick Grand Al Bustan Dubai,Mövenpick Grand Al Bustan Dubai,DXB
+169,Ramada by Wyndham Downtown Dubai,Ramada by Wyndham Downtown Dubai,DXB
+170,"Crowne Plaza Dubai, an IHG Hotel","Crowne Plaza Dubai, an IHG Hotel",DXB
+171,"Mandarin Oriental Jumeira, Dubai","Mandarin Oriental Jumeira, Dubai",DXB
+172,Stella Di Mare Dubai Marina Hotel,Stella Di Mare Dubai Marina Hotel,DXB
+173,Grand Mercure Dubai Airport Hotel,Grand Mercure Dubai Airport Hotel,DXB
+174,Centara Mirage Beach Resort Dubai,Centara Mirage Beach Resort Dubai,DXB
+175,Waldorf Astoria Dubai Palm Jumeirah,Waldorf Astoria Dubai Palm Jumeirah,DXB
+176,Mercure Suites Dubai Barsha Heights,Mercure Suites Dubai Barsha Heights,DXB
+177,DoubleTree by Hilton Dubai Al Jadaf,DoubleTree by Hilton Dubai Al Jadaf,DXB
+178,Ramada Plaza by Wyndham Dubai Deira,Ramada Plaza by Wyndham Dubai Deira,DXB
+179,Sofitel Dubai The Palm Resort & Spa,Sofitel Dubai The Palm Resort & Spa,DXB
+180,Sheraton Dubai Creek Hotel & Towers,Sheraton Dubai Creek Hotel & Towers,DXB
+181,Millennium Place Barsha Heights Hotel,Millennium Place Barsha Heights Hotel,DXB
+182,"Radisson Blu Hotel, Dubai Deira Creek","Radisson Blu Hotel, Dubai Deira Creek",DXB
+183,"Dukes The Palm, a Royal Hideaway Hotel","Dukes The Palm, a Royal Hideaway Hotel",DXB
+184,Four Points by Sheraton Downtown Dubai,Four Points by Sheraton Downtown Dubai,DXB
+185,"Crowne Plaza Dubai Marina, an IHG Hotel","Crowne Plaza Dubai Marina, an IHG Hotel",DXB
+186,"Hotel Indigo Dubai Downtown, an IHG Hotel","Hotel Indigo Dubai Downtown, an IHG Hotel",DXB
+187,DoubleTree by Hilton Dubai - Business Bay,DoubleTree by Hilton Dubai - Business Bay,DXB
+188,Le Meridien Dubai Hotel & Conference Centre,Le Meridien Dubai Hotel & Conference Centre,DXB
+189,"Crowne Plaza Dubai Apartments, an IHG Hotel","Crowne Plaza Dubai Apartments, an IHG Hotel",DXB
+190,Mercure Hotel Apartments Dubai Barsha Heights,Mercure Hotel Apartments Dubai Barsha Heights,DXB
+191,"Holiday Inn Express Dubai Airport, an IHG Hotel","Holiday Inn Express Dubai Airport, an IHG Hotel",DXB
+192,"Four Points by Sheraton Sheikh Zayed Road, Dubai","Four Points by Sheraton Sheikh Zayed Road, Dubai",DXB
